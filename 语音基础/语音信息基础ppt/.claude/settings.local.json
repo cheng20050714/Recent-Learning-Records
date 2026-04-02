@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pdftotext \"Intro 1 - Openning.pdf\" -)",
+      "Bash(pdftotext \"Intro 1 - Signal Processing.pdf\" -)",
+      "Bash(conda env:*)",
+      "Bash(conda run:*)"
+    ]
+  }
+}
